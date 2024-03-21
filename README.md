@@ -1,6 +1,7 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%0D%0AMachine+Learning+Engineer+%F0%9F%92%BB%0D%0AGen+AI+Engineer+%F0%9F%9B%A0%EF%B8%8F%0D%0A)](https://git.io/typing-svg)
+![Profile views](https://komarev.com/ghpvc/?username=fasilhameed&style=for-the-badge&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%0D%0AML+Engineer+%F0%9F%92%BB%0D%0AGen+AI+Engineer+%F0%9F%9B%A0%EF%B8%8F%0D%0A)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi there,<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" 
          alt="Waving hand animated gif"
@@ -65,5 +66,5 @@
 </div>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=fasilhameed&style=for-the-badge&color=blue)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="600px">
 
